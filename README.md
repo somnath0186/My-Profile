@@ -1,4 +1,4 @@
-# My-Profile
+
 <h1 align="center">Hi 👋, I'm Somnath Jagale</h1>
 <h3 align="center">👋 Hi! I'm Somnath Jagale, a passionate developer skilled in Java. I love crafting elegant solutions to complex problems and staying updated on tech!</h3>
 
